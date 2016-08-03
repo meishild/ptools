@@ -1,0 +1,8 @@
+[config]
+domain=icdoit.com
+sub_domain=@,www
+
+[dnspod]
+id=16540
+host=dnsapi.cn
+token=
